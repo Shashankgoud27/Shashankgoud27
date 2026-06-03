@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Shashank 👋
 
-<!--
-**Shashankgoud27/Shashankgoud27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech CSE (AI & ML) student and an aspiring Software Engineer.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech CSE (AI & ML) Student
+- 🌱 Currently learning Java and DSA
+- 💻 Interested in Web Development and Software Engineering
+- 🎯 Goal: Become job-ready before graduation
+
+## Current Focus
+
+- Java basics
+- Data Structures and Algorithms
+- GitHub consistency
+- Building beginner-friendly projects
+
+## Skills
+
+- HTML
+- CSS
+- SQL
+- Java basics
+
+## Learning Progress
+
+I am improving step by step by practicing coding, building projects, and updating my GitHub regularly.
